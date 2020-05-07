@@ -8,7 +8,7 @@ Hello! This repository is just a part of  my study about some good technologies 
 
 ## How it works?
 
-NVS Calculator, how the name say, it is a simple calculator, using the basic mathematical operators (+,-,*,/) to return the result, saving this in a table.
+It's very simple! Just input your todo on the field and press enter. Automatically, your todo will be inserted in a list, above the field. If you want, it's possible to remove the todo just clicking in trash icon, right side of the created todo.
 
 ## Important to know!
 
