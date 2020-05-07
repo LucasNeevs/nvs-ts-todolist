@@ -61,7 +61,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/LucasNeevs/nvs-calculator/blob/dev/CONTRIBUITING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/LucasNeevs/nvs-ts-todolist/blob/dev/CONTRIBUITING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Author
 
@@ -69,4 +69,4 @@ Please read [CONTRIBUTING.md](https://github.com/LucasNeevs/nvs-calculator/blob/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/LucasNeevs/nvs-calculator/blob/dev/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/LucasNeevs/nvs-ts-todolist/blob/master/LICENSE) file for details
